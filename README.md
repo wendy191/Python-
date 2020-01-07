@@ -1,2 +1,2 @@
-# Python-
-Un blog fácil para Python
+# Clases de Python-
+Trabajos fáciles para Python.
